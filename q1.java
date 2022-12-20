@@ -7,6 +7,7 @@ import java. util. Scanner;
     abstract void VehicleNumber();
     abstract void Mileage();
 }
+/*System.out.print("hello");*/
 interface Safety{
     void rating();
 }
